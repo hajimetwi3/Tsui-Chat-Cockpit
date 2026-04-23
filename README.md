@@ -1,4 +1,4 @@
-## Tsui-Chat-Cockpit
+## Tsui Chat Cockpit  
 「人間が操縦する」AIコックピット。  
 
 ## 注意事項  
